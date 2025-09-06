@@ -1,7 +1,9 @@
 # Iris Loki Writer
 ### an AGILira library
 
-External Loki writer module for the Iris logging accelerator.
+[![CI](https://github.com/agilira/iris-writer-loki/actions/workflows/ci.yml/badge.svg)](https://github.com/agilira/iris-writer-loki/actions/workflows/ci.yml)
+
+External Loki writer module for the Iris.
 
 ## Overview
 
