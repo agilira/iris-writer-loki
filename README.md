@@ -4,7 +4,7 @@
 [![CI](https://github.com/agilira/iris-writer-loki/actions/workflows/ci.yml/badge.svg)](https://github.com/agilira/iris-writer-loki/actions/workflows/ci.yml)
 [![Security](https://img.shields.io/badge/security-gosec-brightgreen.svg)](https://github.com/agilira/iris-writer-loki/actions/workflows/ci.yml)
 [![Go Report Card](https://goreportcard.com/badge/github.com/agilira/iris-writer-loki)](https://goreportcard.com/report/github.com/agilira/iris-writer-loki)
-[![Made For Iris](https://img.shields.io/badge/Made_for-Iris-pink)](https://goreportcard.com/report/github.com/agilira/iris)
+[![Made For Iris](https://img.shields.io/badge/Made_for-Iris-pink)](https://github.com/agilira/iris)
 
 
 External Loki writer module for the Iris.
