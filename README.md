@@ -1,4 +1,4 @@
-# Iris Loki Writer
+# Iris Writer for Grafana Loki
 ### an AGILira library
 
 [![CI](https://github.com/agilira/iris-writer-loki/actions/workflows/ci.yml/badge.svg)](https://github.com/agilira/iris-writer-loki/actions/workflows/ci.yml)
